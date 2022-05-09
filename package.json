@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "luxon": "^2.3.2"
+  },
+  "devDependencies": {
+    "tap": "^16.2.0"
+  }
+}
